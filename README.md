@@ -1,0 +1,1 @@
+Projeto feito para estudo, com uso de IA para adaptação de responsividade e animações, com foco em aprendizado tanto para criar códigos, quanto para usar IA a meu favor de maneira controlada e favorável.
